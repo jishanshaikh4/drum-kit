@@ -1,4 +1,4 @@
-# Drum-Kit (JS30 #1)
+## Drum-Kit (JS_30@JS #1)
 > Very simple kit of drum with sounds and playable on the go.
 
 ### Teaching credits
