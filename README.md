@@ -1,4 +1,4 @@
-## Drum-Kit (#1)
+## :saxophone: Drum-Kit (#1)
 > Very simple kit of drum with sounds and playable on the go.
 
 ### Teaching credits
